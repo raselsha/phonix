@@ -1,2 +1,2 @@
 # phonix
-# (test now){https://raselsha.github.io/phonix/}
+# (test now)[https://raselsha.github.io/phonix]
